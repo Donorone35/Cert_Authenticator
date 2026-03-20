@@ -1,0 +1,77 @@
+{
+  "student_name": "RAI TRAYAMBAK ANANDKUMAR",
+  "roll_number": "2205829",
+  "registration_number": "22397989683",
+  "programme": "B.Tech.(Computer Science and Engineering)",
+  "year_of_admission": "2022",
+  "semester": "6th",
+  "courses": [
+    {
+      "course_code": "CB1047",
+      "course_name": "Accounting for Everyone",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "course_code": "HS30401",
+      "course_name": "Universal Human Values",
+      "credits": 3,
+      "grade": "E"
+    },
+    {
+      "course_code": "CS30002",
+      "course_name": "Artificial Intelligence",
+      "credits": 3,
+      "grade": "E"
+    },
+    {
+      "course_code": "CS31002",
+      "course_name": "Machine Learning",
+      "credits": 4,
+      "grade": "E"
+    },
+    {
+      "course_code": "CS39002",
+      "course_name": "Artificial Intelligence Laboratory",
+      "credits": 1,
+      "grade": "E"
+    },
+    {
+      "course_code": "CS33002",
+      "course_name": "Applications Development Laboratory",
+      "credits": 2,
+      "grade": "E"
+    },
+    {
+      "course_code": "CS37001",
+      "course_name": "Mini Project",
+      "credits": 2,
+      "grade": "E"
+    },
+    {
+      "course_code": "CS30010",
+      "course_name": "Cloud Computing",
+      "credits": 3,
+      "grade": "B"
+    },
+    {
+      "course_code": "OC30002",
+      "course_name": "Economic Analysis of Decision Rules",
+      "credits": 3,
+      "grade": "O"
+    }
+  ],
+  "remarks": "PASS",
+  "sgpa": 8.75,
+  "cgpa": 8.41,
+  "cumulative_credits": 132,
+  "raw_text_hash": "8bc17635031bf874de6fa73c8f5e396fb0dd0c2e8925243cf6123e3a9e59522c",
+  "credits": 24,
+  "credit_index": 210,
+  "cumulative_credit_index": 1110,
+  "document_image_hash": "4d5a433ee9405847f44e2bba955156ed5ce41fd8eaa8d541e47e3a427aa56616",
+  "ocr_engine": "pytesseract",
+  "ocr_confidence": 90.09,
+  "is_low_quality": false,
+  "_raw_text": "we Date:-22.07.2025, 06:46:17 PM\nKALINGA INSTITUTE OF INDUSTRIAL TECHNOLOGY (KIIT)\nDeemed ta be University U/S 3 of the UGC Act, 1956\nSTUDENT COPY\nSEMESTER GRADE REPORT\nYEAR OF ADMISSION: 2022 SCHOOL OF COMPUTER ENGINEERING\nSTUDENT'S NAME ROLL NUMBER REGN. NUMBER SEMESTER\nRAI TRAYAMBAK ANANDKUMAR 2205829 22397989683 6th\nPROGRAMME : B.Tech.(Computer Science and Engineering)\nCOURSE NUMBER COURSE NAME RESP GRADE\nCB1047 Accounting for Everyone 3 A\nHS30401 Universal Human Values 3 E\nCS30002 Artificial Intelligence 3 E\nCS31002 Machine Learning 4 E\nCS39002 Artificial Intelligence Laboratory 1 E\nCS33002 Applications Development Laboratory 2 E\nCS37001 Mini Project 2 E\nCS30010 Cloud Computing 3 B\nOC30002 Economic Analysis of Decision Rules 3 O\nREMARKS - PASS\nCURRENT SEMESTER PERFORMANCE CUMULATIVE PERFORMANCE\nCUMULATIVE CUMULATIVE\nCREDITS CREDIT INDEX SGPA CREDITS CREDIT INDEX\nCGPA\n24 210 8.75 132 1,110 8.41\nte\nACADEMIC OFFICE CONTROLLER OF EXAMINATIONS"
+}

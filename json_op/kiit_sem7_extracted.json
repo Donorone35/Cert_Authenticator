@@ -1,0 +1,53 @@
+{
+  "student_name": "RAI TRAYAMBAK ANANDKUMAR",
+  "roll_number": "2205829",
+  "registration_number": "22397989683",
+  "programme": "B.Tech.(Computer Science and Engineering)",
+  "year_of_admission": "2022",
+  "semester": "7th",
+  "courses": [
+    {
+      "course_code": "EX40003",
+      "course_name": "Engineering Professional Practice",
+      "credits": 2,
+      "grade": "O"
+    },
+    {
+      "course_code": "CS47001",
+      "course_name": "Project- I",
+      "credits": 5,
+      "grade": "E"
+    },
+    {
+      "course_code": "CS48001",
+      "course_name": "Internship",
+      "credits": 2,
+      "grade": "E"
+    },
+    {
+      "course_code": "CS40001",
+      "course_name": "Deep Learning Techniques",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "course_code": "OC30902",
+      "course_name": "GenAI",
+      "credits": 3,
+      "grade": "O"
+    }
+  ],
+  "remarks": "PASS",
+  "sgpa": 9.13,
+  "cgpa": 8.48,
+  "cumulative_credits": 147,
+  "raw_text_hash": "01159bfb652d8e90526ff0bee388a549a8dc09c87cedf2fb42cb569870f5c20e",
+  "credits": 15,
+  "credit_index": 137,
+  "cumulative_credit_index": 1247,
+  "document_image_hash": "a2a333343d91703c12c5a8e085937dc32b477843f472ba6a90042de89f0f4bfa",
+  "ocr_engine": "pytesseract",
+  "ocr_confidence": 90.13,
+  "is_low_quality": false,
+  "_raw_text": "we Date:-16.01.2026, 02:16:07 PM\nKALINGA INSTITUTE OF INDUSTRIAL TECHNOLOGY (KIIT)\nDeemed ta be University U/S 3 of the UGC Act, 1956\nSTUDENT COPY\nSEMESTER GRADE REPORT\nYEAR OF ADMISSION: 2022 SCHOOL OF COMPUTER ENGINEERING\nSTUDENT'S NAME ROLL NUMBER REGN. NUMBER SEMESTER\nRAI TRAYAMBAK ANANDKUMAR 2205829 22397989683 7th\nPROGRAMME : B.Tech.(Computer Science and Engineering)\nCOURSE\nCOURSE NUMBER COURSE NAME CREDIT\nGRADE\nEX40003 Engineering Professional Practice 2 O\nCS47001 Project- I 5 E\nCS48001 Internship 2 E\nCS40001 Deep Learning Techniques 3 A\nOC30902 GenAI 3 Oo\nREMARKS - PASS\nCURRENT SEMESTER PERFORMANCE CUMULATIVE PERFORMANCE\nCREDITS CREDIT INDEX SGPA oReDITs | CREDIT INDEX CGPA\n15 137 9.13 147 1,247 8.48\nte\nACADEMIC OFFICE CONTROLLER OF EXAMINATIONS"
+}
